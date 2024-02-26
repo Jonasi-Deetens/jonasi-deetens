@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Jonasi Deetens 👋
+
+![banner of a computer screen with some code](https://github.com/Jonasi-Deetens/assets/blob/main/banner-github.png)
 
 <!--
 **Jonasi-Deetens/jonasi-deetens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
